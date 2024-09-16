@@ -1,4 +1,5 @@
 *.exe
+*.exe~
 *.dll
 *.so
 
@@ -10,3 +11,7 @@ go.work
 go.work.sum
 
 .env
+last-change
+
+hello/hello
+web-service-gin/web-service-gin
